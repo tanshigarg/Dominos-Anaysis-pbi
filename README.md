@@ -34,7 +34,7 @@ This Power BI dashboard provides insights into Domino's sales, including revenue
 - **S (Small):** 21.77%  
 
 ## 📂 Files & Links
-- **Power BI File:** [Download PBIX](./mnt/data/dominos%20pbix.pbix)  
+- **Power BI File:** [Download PBIX](https://github.com/tanshigarg/Dominos-Anaysis-pbi/blob/a4730d00b6d8fc17934a0b834c796082b68e1118/dominos%20pbix.pbix)  
 - **Dashboard Image:** [View Image](https://github.com/tanshigarg/Dominos-Anaysis-pbi/blob/6eeb6e2baf050439835334bbb0e4b4d4816ca726/dominos%20dashboard.png)  
 
 ✨ Created with Power BI for data-driven business insights.
