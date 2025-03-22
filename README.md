@@ -35,6 +35,6 @@ This Power BI dashboard provides insights into Domino's sales, including revenue
 
 ## 📂 Files & Links
 - **Power BI File:** [Download PBIX](./mnt/data/dominos%20pbix.pbix)  
-- **Dashboard Image:** [View Dashboard](./mnt/data/dominos%20dashboard.png)  
+- **Dashboard Image:** [View Image](https://github.com/tanshigarg/Dominos-Anaysis-pbi/blob/6eeb6e2baf050439835334bbb0e4b4d4816ca726/dominos%20dashboard.png)  
 
 ✨ Created with Power BI for data-driven business insights.
